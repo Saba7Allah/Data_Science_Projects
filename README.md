@@ -1,11 +1,11 @@
 # Data Science Projects  
-A personal repository for data science and data analysis projects.  
+The main repository for data science and data analysis projects.
 
 ### Projects  
 - [Movies Data](./Movies_Data): Analyzing movie data using Python libraries like Pandas and Matplotlib.  
-- More projects coming soon!  
+- More projects are coming!  
 
-### Tools and Libraries  
+### Tools and Libraries often used 
 - Python (Pandas, Matplotlib, Seaborn, NumPy)  
 - Jupyter Notebooks  
 
