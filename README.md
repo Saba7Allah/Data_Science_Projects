@@ -2,8 +2,8 @@
 The main repository for data science and data analysis projects.
 
 ### Projects
-- [MoviesDataReport](./Movies_Data): Analyzing movie data using Python libraries like Pandas and Matplotlib.
-- [WeRateDogs!](.WeRateDogsProject): A data wrangling project that focuses on getting data from multiple sources like Twitter API, CSV, or TSV files
+- [MoviesDataReport](https://github.com/Saba7Allah/MoviesDataReport): Analyzing movie data using Python libraries like Pandas and Matplotlib.
+- [WeRateDogs!](https://github.com/Saba7Allah/WeRateDogs_project): A data wrangling project that focuses on getting data from multiple sources like Twitter API, CSV, or TSV files
 - More projects are coming!
 
 ### Tools and Libraries often used
